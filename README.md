@@ -1,9 +1,4 @@
 - Hi, I’m Joe Dominik
-- I’m interested in data analysis, music, and sports.
-- I’m currently learning Python.
+- I’m interested in the stories different data can tell. I am also an avid music listener and love to watch several different sports.
+- I’m currently learning better techniques within Python, but have previous experience in Java, R, and Tableau.
 - How to reach me: joedominik@hotmail.com
-
-<!---
-JoeDominik/JoeDominik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
